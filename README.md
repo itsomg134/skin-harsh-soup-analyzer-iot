@@ -1,4 +1,4 @@
-# skin-harsh-soup-analyzer-iot
+# skin harsh soup analyzer iot
 
 # 🥣 Soup Skin Compatibility Analyzer
 
