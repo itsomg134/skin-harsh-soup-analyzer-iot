@@ -229,14 +229,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 📞 Support
-
-If you found this project helpful, please give it a ⭐️!
-
-For support, email your.email@example.com or open an issue on GitHub.
-
----
-
 ## 🔮 Roadmap
 
 - [ ] AI-powered ingredient analysis
